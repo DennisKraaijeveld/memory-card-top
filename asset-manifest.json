@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DennisKraaijeveld/memory-card-top/static/css/main.53748f13.css",
+    "main.js": "/DennisKraaijeveld/memory-card-top/static/js/main.71cf1e65.js",
+    "index.html": "/DennisKraaijeveld/memory-card-top/index.html",
+    "main.53748f13.css.map": "/DennisKraaijeveld/memory-card-top/static/css/main.53748f13.css.map",
+    "main.71cf1e65.js.map": "/DennisKraaijeveld/memory-card-top/static/js/main.71cf1e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53748f13.css",
+    "static/js/main.71cf1e65.js"
+  ]
+}
